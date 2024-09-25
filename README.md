@@ -1,3 +1,3 @@
-# Verifyica has moved to a Github organization
+# Verifyica has moved to a GitHub organization
 
 https://github.com/verifyica-team/verifyica
